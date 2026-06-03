@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: CogStack — Persistent AI Cognition and Multi-Vendor Cognitive Stacking
+message: If you use this specification, please cite it.
+type: software
+authors:
+  - family-names: Goldstein
+    given-names: Niels
+repository-code: https://github.com/nielsg2/cogstack-spec
+abstract: >-
+  A two-layer architecture for autonomous AI agent systems: a persistent
+  cognition substrate (context compression, durable memory, rehydration,
+  headless execution, plugin bus) and a multi-vendor cognitive-stacking model
+  that orchestrates agents across providers for decorrelated diversity. The
+  orchestration complement to AIDL. Published openly as prior art.
+keywords:
+  - AI governance
+  - agentic AI
+  - multi-agent systems
+  - LLM orchestration
+  - persistent memory
+  - cognitive stacking
+license: MIT
+version: 1.0.0
+date-released: 2026-06-03
+references:
+  - type: software
+    title: AIDL — AI Directive Language
+    authors:
+      - family-names: Goldstein
+        given-names: Niels
+    identifiers:
+      - type: doi
+        value: 10.5281/zenodo.20498616
+        description: Companion project — AIDL governance specification

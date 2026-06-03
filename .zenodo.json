@@ -1,0 +1,31 @@
+{
+  "title": "CogStack — Persistent AI Cognition and Multi-Vendor Cognitive Stacking",
+  "description": "A two-layer architecture for autonomous AI agent systems: a persistent cognition substrate (context compression, durable memory store, rehydration pipeline, headless execution daemon, plugin bus) and a multi-vendor cognitive-stacking model that orchestrates agents across providers for decorrelated diversity. Designed as the orchestration complement to AIDL. Published openly as a contribution and as prior art under the MIT License.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "creators": [
+    { "name": "Goldstein, Niels", "affiliation": "Independent" }
+  ],
+  "keywords": [
+    "AI governance",
+    "agentic AI",
+    "multi-agent systems",
+    "LLM orchestration",
+    "persistent memory",
+    "cognitive stacking",
+    "model decorrelation",
+    "context continuity",
+    "defensive publication",
+    "prior art"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20498616",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "software"
+    }
+  ]
+}
