@@ -1,5 +1,6 @@
 # CogStack — Persistent AI Cognition and Multi-Vendor Cognitive Stacking
 
+[![DOI](https://zenodo.org/badge/1258412582.svg)](https://doi.org/10.5281/zenodo.20529670)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **A two-layer architecture for autonomous AI agent systems: a persistent cognition substrate that gives agents memory across sessions, and a multi-vendor cognitive stacking model that assembles agents from different providers to produce emergent reliability through decorrelated diversity.**

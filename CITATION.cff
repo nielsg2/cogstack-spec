@@ -22,6 +22,10 @@ keywords:
 license: MIT
 version: 1.0.0
 date-released: 2026-06-03
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20529670
+    description: Concept DOI (all versions)
 references:
   - type: software
     title: AIDL — AI Directive Language
