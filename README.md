@@ -3,6 +3,8 @@
 [![DOI](https://zenodo.org/badge/1258412582.svg)](https://doi.org/10.5281/zenodo.20529670)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+> **Part of [The Always Verify Stack](https://github.com/nielsg2/always-verify-stack)** — a matched three-layer set (AIDL · CogStack · EthicalSwarm) for governing multi-agent, multi-vendor AI.
+
 **A two-layer architecture for autonomous AI agent systems: a persistent cognition substrate that gives agents memory across sessions, and a multi-vendor cognitive stacking model that assembles agents from different providers to produce emergent reliability through decorrelated diversity.**
 
 Current AI agents are stateless — context evaporates at session end. And naive multi-agent setups run the same model multiple times and call it redundancy, when what they've actually built is correlated agreement dressed up as consensus. CogStack addresses both: externalize and rehydrate the context so agents reason continuously, and stack agents from genuinely different providers so the composite covers failure modes no single constituent has.
