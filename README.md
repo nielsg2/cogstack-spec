@@ -1,6 +1,6 @@
 # CogStack — Persistent AI Cognition and Multi-Vendor Cognitive Stacking
 
-[![DOI](https://zenodo.org/badge/1258412582.svg)](https://doi.org/10.5281/zenodo.20529670)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20529670-blue.svg)](https://doi.org/10.5281/zenodo.20529670)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > **Part of [The Always Verify Stack](https://github.com/nielsg2/always-verify-stack)** — a matched three-layer set (AIDL · CogStack · EthicalSwarm) for governing multi-agent, multi-vendor AI.
